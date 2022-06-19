@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenedictJabroni
 - 👀 I’m interested in Naruto, tourism, girls
-- 🌱 I’m currently learning Rust, C/C++
+- 🌱 I’m currently learning Rust, C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
